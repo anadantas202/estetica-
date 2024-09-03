@@ -2,7 +2,7 @@
 
 header {
     padding: 20px 0;
-    background: url("fundo_main.jpg");
+    background: url("banner.jpg");
     border-bottom: 3px solid black;
 }
 
@@ -322,7 +322,7 @@ footer {
 .table-horario-titulo {
     font-weight: bolder;
     font-size: 15px;
-    background: #f1a65a;
+    background: #FFB6C1;
 }
 .table-horario-celulas {
     border: 1px solid #000000;
